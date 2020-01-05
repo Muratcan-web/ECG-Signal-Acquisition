@@ -1,0 +1,18 @@
+Before ordering anything, keep in mind that the materials below has alternatives. However, I recommend you to use the op-amps that
+are listed below. Resistor and capacitor values may vary depending on the cut-off frequencies.
+
+BILL of MATERIALS:
+1- AD-620 (Main component)
+2- 10uF x 2
+3- 1uF x 2
+4- 158.4 kohm (add the necessary values in series & parallel to get this resistance)
+5- 8040 ohm x 2
+6- LF411 x 2
+7- 33kohm x 2
+8- 15kohm
+9- 100nF x 2
+10- 220 nF x 2 
+11- Stripboard
+12- Male headers x 6 (for inputs and outputs)
+13- 3 Lead electrode cable
+14- ECG Electrode
