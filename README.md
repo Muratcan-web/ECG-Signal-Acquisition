@@ -22,4 +22,4 @@ Malik Enes GÜNGÖR
 Mehmet Ali ATILGAN
 Muratcan YAZICI
 
-For any additional questions, send an e-mail: muratcann.yazici@gmail.com
+For any additional questions, recommendations, criticism send an e-mail: muratcann.yazici@gmail.com
