@@ -16,4 +16,10 @@ and use BPM calculation algorithms.
 
 To open MATLAB app, open fsroot and drag app3 to your MATLAB interface. you will see all the codes and the user friendly GUI.
 
+This was a term project that was conducted by
+
+Malik Enes GÜNGÖR
+Mehmet Ali ATILGAN
+Muratcan YAZICI
+
 For any additional questions, send an e-mail: muratcann.yazici@gmail.com
